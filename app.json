@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Daemon-whatsapp",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD2",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/gwydion67/CheemsBot-MD2",
+  "logo": "https://i.ibb.co/1Q8HZKG/logo-daemon.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {

@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.owner = ['918986699689,916205489973,9835355991']
+global.premium = ['918986699689,916205489973,9835355991']
+global.ownernomer = '918986699689,916205489973,9835355991'
+global.ownername = 'Gwydioni'
+global.botname = 'DaemonBot'
+global.footer = 'Daemon Bot Inc.'
+global.ig = 'https://github.com/gwydion67'
+global.region = 'India'
+global.sc = 'https://github.com/gwydion67/Daemon-whatsapp'
+global.myweb = 'nope'
+global.packname = 'Daemon Bot'
+global.author = 'gwydion@Daemon'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -50,7 +50,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: "Infinity",
     monayawal: 1000
 }
    global.rpg = {
